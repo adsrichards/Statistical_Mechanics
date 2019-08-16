@@ -2,7 +2,7 @@
 
 This repository is devoted to solving models of statistical mechanics.
 
-2D nearest neighbour square lattice Ising model near criticality, T = 2.269:
+2D nearest neighbor square lattice Ising model near criticality, T = 2.269:
 
 ![](CriticalIsing.gif)
 
