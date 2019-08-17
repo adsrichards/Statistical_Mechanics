@@ -1,4 +1,4 @@
-# Statistical_Mechanics
+# Statistical Mechanics
 
 This repository is devoted to solving models of statistical mechanics.
 
