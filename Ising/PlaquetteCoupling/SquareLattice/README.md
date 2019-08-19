@@ -1,3 +1,3 @@
-Emergence of deconfined fractons from the ferromagnetic ground state:
+Emergence of partially deconfined fractons from the ferromagnetic ground state:
 
 ![](Plots/GlassyFractons.gif)
