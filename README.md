@@ -1,6 +1,6 @@
 # Statistical Mechanics
 
-This repository is devoted to solving models of statistical mechanics.
+This repository will include solutons to models of statistical mechanics.
 
 2D nearest neighbor square lattice Ising model near criticality, T = 2.269:
 
