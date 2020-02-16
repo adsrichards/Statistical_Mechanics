@@ -1,6 +1,6 @@
 # Statistical Mechanics
 
-This repository will include solutons to models of statistical mechanics.
+Monte Carlo simulations of statistcal mechanics models. The graphics below were developed using WebGL.
 
 2D nearest neighbor square lattice Ising model near criticality, T = 2.269:
 
