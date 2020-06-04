@@ -1,6 +1,6 @@
 # Statistical Mechanics
 
-Monte Carlo simulations of statistical mechanics models. The graphics below were developed using WebGL.
+Monte Carlo simulations of statistical mechanics models. The graphics below were created using WebGL.
 
 2D nearest neighbor square lattice Ising model near criticality, T = 2.269:
 
